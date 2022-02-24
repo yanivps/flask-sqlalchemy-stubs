@@ -440,7 +440,7 @@ typing-extensions = ">=3.7.4"
 type = "git"
 url = "https://github.com/yanivps/sqlalchemy-stubs.git"
 reference = "master"
-resolved_reference = "0625d232038440ac37304ebc8cb04795927b540d"
+resolved_reference = "994ab5da7dc4f31ee9bb8b113765595903fe712f"
 
 [[package]]
 name = "toml"
